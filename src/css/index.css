@@ -1,0 +1,96 @@
+  body {
+      background-color: #0A1F44;
+      color: #FFFFFF;
+  }
+
+  .navbar {
+      background-color: #1C1C1C;
+  }
+
+  .btn-primary {
+      background-color: #007BFF;
+      border: none;
+  }
+
+  .section {
+      padding: 60px 0;
+  }
+
+  .bckgcolor-dark {
+      background-color: #1C1C1C;
+  }
+
+  .link-neutro,
+  .link-neutro:hover,
+  .link-neutro:focus,
+  .link-neutro:visited {
+      text-decoration: none;
+      color: inherit;
+      font-weight: bold;
+      cursor: pointer;
+  }
+
+  .modal-content {
+      background-color: #0A1F44;
+      /* azul escuro do site */
+      color: #FFFFFF;
+      /* texto branco */
+      border: none;
+  }
+
+  .modal-header {
+      background-color: #1C1C1C;
+      border-bottom: 1px solid #333;
+  }
+
+  .modal-footer {
+      background-color: #1C1C1C;
+      border-top: 1px solid #333;
+  }
+
+  .modal-title {
+      color: #FFFFFF;
+  }
+
+  label {
+      color: #FFFFFF;
+  }
+
+  input.form-control,
+  select.form-control {
+      background-color: #1C1C1C;
+      color: #FFFFFF;
+      border: 1px solid #444;
+  }
+
+  input.form-control::placeholder {
+      color: #BBB;
+  }
+
+  .custom-file-upload {
+      background-color: #0A1F44;
+      color: #FFF;
+      padding: 10px 20px;
+      border-radius: 5px;
+      display: inline-block;
+      cursor: pointer;
+      border: 1px solid #FFF;
+  }
+
+  input[type="file"] {
+      display: none;
+  }
+
+  .centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mg-t-2 {
+    margin-top: 20px;
+  }
+
+  .mg-b-2 {
+    margin-bottom: 20px;
+  }
