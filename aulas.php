@@ -52,9 +52,10 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="ratio ratio-16x9">
                             <iframe width="670" 
                                     height="377" 
-                                    src="https://www.youtube.com/embed/1ZvfvosBPjA" 
-                                    title="&quot;lastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados&quot;" 
-                                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    src="https://www.youtube.com/embed/HRQEo4DVxFM" 
+                                    title="Aula 1: Introdução ao PHP — Fundamentos da linguagem e primeiros passos no desenvolvimento web" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                                     referrerpolicy="strict-origin-when-cross-origin" 
                                     allowfullscreen>
                             </iframe>
@@ -62,7 +63,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="card-body">
                             <h5 class="card-title">Aula 1: Introdução ao PHP</h5>
                             <p class="card-text">Entenda os fundamentos da linguagem PHP e como ela é usada no desenvolvimento web.</p>
-                            <a href="https://www.youtube.com/embed/1ZvfvosBPjA" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                            <a href="https://www.youtube.com/embed/HRQEo4DVxFM" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
                     </div>
                 </div>
