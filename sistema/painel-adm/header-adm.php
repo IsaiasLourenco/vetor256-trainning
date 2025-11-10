@@ -1,5 +1,5 @@
         <?php
-        require_once("conexao.php");
+        require_once("../../conexao.php");
         $query = $pdo->query("SELECT * FROM config");
         $res = $query->fetchAll(PDO::FETCH_ASSOC);
         $id_sistema = $res[0]['id'];
@@ -34,7 +34,7 @@
             <div class="container">
                 <a class="navbar-brand" href="painel.php">
                     <h5 class="m-0">
-                        <img src="src/img/<?php echo $logo_sistema ?>" width="60px" alt="Logo Vetor256." />
+                        <img src="../../src/img/<?php echo $logo_sistema ?>" width="60px" alt="Logo Vetor256." />
                         <?php echo $nome_sistema ?>
                     </h5>
                 </a>
@@ -43,8 +43,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="menu">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="aulas-aluno.php">Minhas Aulas</a></li>
-                        <li class="nav-item"><a class="nav-link" href="editar-perfil.php">Editar Perfil</a></li>
+                        <li class="nav-item"><a class="nav-link" href="painel.php">Painel</a></li>
+                        <li class="nav-item"><a class="nav-link" href="matricular.php">Matricular Aluno</a></li>
+                        <li class="nav-item"><a class="nav-link" href="cadastrar-aula.php">Cadastrar Aula</a></li>
                         <li class="nav-item"><a class="nav-link text-danger" href="logout.php">Sair</a></li>
                     </ul>
                 </div>

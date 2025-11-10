@@ -45,6 +45,15 @@
                                         <label for="senhaCadastro" class="form-label">Senha</label>
                                         <input type="password" class="form-control" id="senhaCadastro" name="senha" required>
                                     </div>
+                                    <div class="mb-3">
+                                        <label for="nivelCadastro" class="form-label">Tipo de acesso</label>
+                                        <select class="form-select" id="nivelCadastro" name="nivel" required>
+                                            <option value="">-- Selecione --</option>
+                                            <option value="aluno">Aluno</option>
+                                            <option value="professor">Professor</option>
+                                            <option value="admin">Administrador</option>
+                                        </select>
+                                    </div>
                                     <button type="submit" class="btn btn-success w-100">Cadastrar</button>
                                 </form>
                             </div>

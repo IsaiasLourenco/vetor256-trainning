@@ -5,7 +5,7 @@ if (!isset($_SESSION['id_aluno'])) {
     exit();
 }
 
-require_once("conexao.php");
+require_once("../../conexao.php");
 
 $id = $_SESSION['id_aluno'];
 $query = $pdo->prepare("SELECT * FROM alunos WHERE id = :id");
@@ -51,7 +51,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<?php require_once("head.php")?>
+<?php require_once("head-aluno.php")?>
 
 <body>
 
@@ -86,7 +86,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
         </div>
     </section>
 
-    <?php require_once("footer.php"); ?>
+    <?php require_once("../../footer.php"); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
