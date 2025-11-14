@@ -74,8 +74,8 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="ratio ratio-16x9">
                             <iframe width="670" 
                                     height="377" 
-                                    src="https://www.youtube.com/embed/b0-Y3YNxFw8" 
-                                    title="🚀Facilitando Gestão Financeira: Nosso Sistema Calcula Pagamentos por Você!" 
+                                    src="https://www.youtube.com/embed/E0WFIopLdMY" 
+                                    title="Aula 2 - Variáveis e Tipos em PHP: Domine a base da linguagem!" 
                                     frameborder="0" 
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                                     referrerpolicy="strict-origin-when-cross-origin" 
@@ -85,7 +85,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="card-body">
                             <h5 class="card-title">Aula 2: Variáveis e Tipos</h5>
                             <p class="card-text">Aprenda como declarar variáveis, entender tipos de dados e boas práticas iniciais.</p>
-                            <a href="https://www.youtube.com/embed/b0-Y3YNxFw8" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                            <a href="https://www.youtube.com/embed/E0WFIopLdMY" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
                     </div>
                 </div>
