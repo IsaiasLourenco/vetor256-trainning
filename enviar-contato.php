@@ -14,14 +14,15 @@ try {
     $mail->isSMTP();
     $mail->Host       = 'smtp.titan.email';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'contato@trainningonline.vetor256.com'; // seu email completo
-    $mail->Password   = 'Portal@Vetor256';     // senha do Titan
+    $mail->Username   = 'contato@vetor256.com'; // seu email completo
+    $mail->Password   = 'Vetor256Empresa@';     // senha do Titan
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // conexão segura SSL
     $mail->Port       = 465; // porta SSL recomendada
 
-    $mail->setFrom('contato@trainningonline.vetor256.com', 'PoratlVetor256');
-    $mail->addAddress('contato@trainningonline.vetor256.com'); // destinatário
-    $mail->addReplyTo($_POST['email_msg'], $_POST['nome_msg']);
+    $mail->setFrom('contato@vetor256.com', 'Vetor256');
+    $mail->addAddress('contato@vetor256.com'); // destinatário
+    $mail->addReplyTo($_POST['email'], $_POST['nome']);
+
 
     $mail->isHTML(false);
     $mail->Subject = 'Nova mensagem de contato';
