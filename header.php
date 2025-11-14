@@ -24,7 +24,11 @@
 
 <header class="section text-center">
     <div class="container">
-        <h1>Bem-vindo ao Portal <?php echo $dev ?></h1>
+        <h1>
+            Bem-vindo ao Portal <?php echo $dev ?>
+            <img src="src/img/<?php echo $logo_sistema ?>" width="60px" alt="Logo Rocketseat">
+        </h1>
+            
         <p class="lead">Aprenda tecnologia com propósito — em parceria com a Rocketseat
             <img src="src/img/<?php echo $logo_par ?>" width="20px" alt="Logo Rocketseat">
         </p>
