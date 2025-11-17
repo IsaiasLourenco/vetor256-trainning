@@ -59,9 +59,6 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                     <p class="text-start">
                         Este portal é apenas o começo. Em breve, você terá acesso a trilhas completas, certificações, fóruns de discussão e muito mais.
                     </p>
-                    <p class="text-start">
-                        Desenvolvido por <a href="<?php echo $site_dev ?>" target="_blank"><?php echo $dev ?></a> com apoio da Rocketseat <img src="src/img/<?php echo $logo_par ?>" width="20px" alt="Logo Rocketseat">
-                    </p>
                 </div>
             </div>
         </div>

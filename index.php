@@ -81,6 +81,25 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                 <img src="src/img/<?php echo $logo_par?>" width="20px" alt="Logo Rocketseat">
             </p>
         </div>
+        <div class="container">
+            <h2 class="mb-4">Conheça as vantagens da parceria Rocketseat + Vetor256</h2>
+            <div class="ratio ratio-16x9 mb-3">
+                <iframe width="670" 
+                        height="377" 
+                        src="https://www.youtube.com/embed/Y_97sFGoMuk" 
+                        title="Parceria Rocketseat + Vetor256: Aprenda com desconto e acelere sua carreira!" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        referrerpolicy="strict-origin-when-cross-origin" 
+                        allowfullscreen>
+                </iframe>
+            </div>
+            <p class="lead">Confira as vantagens de aprender T.I. com a Vetor256.
+                <img src="src/img/<?php echo $logo_sistema?>" width="20px" alt="Logo Rocketseat">
+                 e a Rocketseat 
+                <img src="src/img/<?php echo $logo_par?>" width="20px" alt="Logo Rocketseat">
+            </p>
+        </div>
     </section>
 
     <section class="section text-center">
