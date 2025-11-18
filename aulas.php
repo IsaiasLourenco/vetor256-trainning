@@ -110,6 +110,27 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         </div>
                     </div>
                 </div>
+                <!-- Aula Dicas -->
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="670" 
+                                    height="377" 
+                                    src="https://www.youtube.com/embed/HN47gswQ5r0" 
+                                    title="Entrevista Técnica Full Stack: A Verdade Que Ninguém Conta!" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Dicas: Aprenda como se preparar para uma entrevista técnica</h5>
+                            <p class="card-text">Pare de ouvir pessoas que dizem que basta copiar código. Saiba como se portar na frente do gestor da vaga.</p>
+                            <a href="https://www.youtube.com/embed/HN47gswQ5r0" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
