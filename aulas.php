@@ -108,9 +108,10 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                             <p class="card-text">Explore estruturas de decisão e repetição para criar lógica nos seus scripts.</p>
                             <a href="https://www.youtube.com/embed/X1Fk69jcRcE" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
-                    </div>
-                </div>
-                <!-- Aula Dicas -->
+                    </div>                    
+                </div>.
+                <!-- Dicas -->
+                <p class="lead">Confira os vídeos sobre dicas de programação.</p>
                 <div class="col-md-4 mb-4">
                     <div class="card h-100">
                         <div class="ratio ratio-16x9">
@@ -141,12 +142,77 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                                     frameborder="0" 
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                                     referrerpolicy="strict-origin-when-cross-origin" 
-                                    allowfullscreen></iframe>
+                                    allowfullscreen>
+                            </iframe>
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Dicas: Foque em apenas uma linguagem no início da sua carreira!</h5>
                             <p class="card-text">Não se deixem levar pelas várias oportunidades que o mercado oferece e não fique pulando de galho em galho, foque em uma!!.</p>
                             <a href="https://www.youtube.com/embed/16zyikwO8j8" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Aula Antigas -->
+                 <p class="lead">Confira os vídeos mais antigos sobre dicas de programação.</p>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="670" 
+                                    height="377" 
+                                    src="https://www.youtube.com/embed/b0-Y3YNxFw8" 
+                                    title="🚀Facilitando Gestão Financeira: Nosso Sistema Calcula Pagamentos por Você!" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Facilitando Gestão Financeira: Nosso Sistema Calcula Pagamentos por Você!</h5>
+                            <p class="card-text">Calculando prazo de entrega e pagamento de compras automaticamente para sistema PDV.</p>
+                            <a href="https://www.youtube.com/embed/b0-Y3YNxFw8" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="670" 
+                                    height="377" 
+                                    src="https://www.youtube.com/embed/1ZvfvosBPjA" 
+                                    title="&quot;lastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados&quot;" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">LastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados.</h5>
+                            <p class="card-text">Você já parou para pensar se o lastInsertId() pode funcionar antes do execute() em PDO? 🤔 Pois é, muita 
+                                gente acredita que sempre precisa chamar o execute() antes de recuperar o ID da última inserção... mas será que isso é verdade?</p>
+                            <a href="https://www.youtube.com/embed/1ZvfvosBPjA" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="670" 
+                                    height="377" 
+                                    src="https://www.youtube.com/embed/NegQGc0Y0QY" 
+                                    title="Pare de repetir código! foreach é seu amigo no PHP, não use mais de um For no mesmo arquivo." 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Pare de repetir código! foreach é seu amigo no PHP, não use mais de um For no mesmo arquivo.</h5>
+                            <p class="card-text">Está na dúvida sobre quando usar foreach em vez de for no PHP? 🤔 Neste vídeo, eu explico a diferença entre esses dois loops e 
+                                mostro quando e por que foreach pode ser a melhor escolha, especialmente quando já temos um for logo acima no código!</p>
+                            <a href="https://www.youtube.com/embed/NegQGc0Y0QY" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
                     </div>
                 </div>
