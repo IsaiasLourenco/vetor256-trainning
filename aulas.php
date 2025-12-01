@@ -131,6 +131,25 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         </div>
                     </div>
                 </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="670" 
+                                    height="377" 
+                                    src="https://www.youtube.com/embed/16zyikwO8j8" 
+                                    title="Por que focar em uma stack pode acelerar sua carreira dev?" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen></iframe>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Dicas: Foque em apenas uma linguagem no início da sua carreira!</h5>
+                            <p class="card-text">Não se deixem levar pelas várias oportunidades que o mercado oferece e não fique pulando de galho em galho, foque em uma!!.</p>
+                            <a href="https://www.youtube.com/embed/16zyikwO8j8" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
