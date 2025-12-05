@@ -96,9 +96,10 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="ratio ratio-16x9">
                             <iframe width="670" 
                                     height="377" 
-                                    src="https://www.youtube.com/embed/X1Fk69jcRcE" 
-                                    title="Como tá ficando Sistema Gerenciamento de Restaurantes" 
-                                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    src="https://www.youtube.com/embed/k3kaUNYmY2c" 
+                                    title="Aula 3 - Condicionais e Loops em PHP: Crie lógica nos seus scripts!" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                                     referrerpolicy="strict-origin-when-cross-origin" 
                                     allowfullscreen>
                             </iframe>
@@ -106,7 +107,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="card-body">
                             <h5 class="card-title">Aula 3: Condicionais e Loops</h5>
                             <p class="card-text">Explore estruturas de decisão e repetição para criar lógica nos seus scripts.</p>
-                            <a href="https://www.youtube.com/embed/X1Fk69jcRcE" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                            <a href="https://www.youtube.com/embed/k3kaUNYmY2c" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
                     </div>                    
                 </div>.
@@ -179,8 +180,8 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                         <div class="ratio ratio-16x9">
                             <iframe width="670" 
                                     height="377" 
-                                    src="https://www.youtube.com/embed/1ZvfvosBPjA" 
-                                    title="&quot;lastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados&quot;" 
+                                    src="https://www.youtube.com/embed/I4JDVAoD4g0" 
+                                    title="LastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados" 
                                     frameborder="0" 
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                                     referrerpolicy="strict-origin-when-cross-origin" 
@@ -191,7 +192,7 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
                             <h5 class="card-title">LastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados.</h5>
                             <p class="card-text">Você já parou para pensar se o lastInsertId() pode funcionar antes do execute() em PDO? 🤔 Pois é, muita 
                                 gente acredita que sempre precisa chamar o execute() antes de recuperar o ID da última inserção... mas será que isso é verdade?</p>
-                            <a href="https://www.youtube.com/embed/1ZvfvosBPjA" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
+                            <a href="https://www.youtube.com/embed/I4JDVAoD4g0" target="_blank" class="btn btn-primary">Assistir no YouTube</a>
                         </div>
                     </div>
                 </div>
