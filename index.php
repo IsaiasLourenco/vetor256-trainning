@@ -46,58 +46,18 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
         <div class="container">
             <h2 class="mb-4">Apresentação do Projeto</h2>
             <div class="ratio ratio-16x9 mb-3">
-                <iframe width="670" 
-                        height="377" 
-                        src="https://www.youtube.com/embed/tr8S8mxLAuU" 
-                        title="Chamada à Ação. Início do Portal de Educação Tecnológica Vetor256." 
+                <iframe width="770" 
+                        height="433" 
+                        src="https://www.youtube.com/embed/I4JDVAoD4g0" 
+                        title="LastInsertId SEM execute?! Como isso e possível? Tutorial Banco de Dados" 
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                         referrerpolicy="strict-origin-when-cross-origin" 
                         allowfullscreen>
                 </iframe>
             </div>
-            <p class="lead">Confira o vídeo oficial de lançamento do portal Vetor256 
-                <img src="src/img/<?php echo $logo_sistema?>" width="20px" alt="Logo Rocketseat">
-                em parceria com a Rocketseat 
-                <img src="src/img/<?php echo $logo_par?>" width="20px" alt="Logo Rocketseat">
-            </p>
-        </div>
-        <div class="container">
-            <h2 class="mb-4">Mudanças no entendimento</h2>
-            <div class="ratio ratio-16x9 mb-3">
-                <iframe width="670" 
-                        height="377" 
-                        src="https://www.youtube.com/embed/hm_cXELa9-k" 
-                        title="Vetor256 + Rocketseat: A verdade sobre a parceria e como ela te ajuda a crescer como dev" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        referrerpolicy="strict-origin-when-cross-origin" 
-                        allowfullscreen>
-                </iframe>
-            </div>
-            <p class="lead">Confira as mudanças que tivemos no core da parceria Vetor256
-                <img src="src/img/<?php echo $logo_sistema?>" width="20px" alt="Logo Rocketseat">
-                 + Rocketseat 
-                <img src="src/img/<?php echo $logo_par?>" width="20px" alt="Logo Rocketseat">
-            </p>
-        </div>
-        <div class="container">
-            <h2 class="mb-4">Conheça as vantagens da parceria Rocketseat + Vetor256</h2>
-            <div class="ratio ratio-16x9 mb-3">
-                <iframe width="670" 
-                        height="377" 
-                        src="https://www.youtube.com/embed/Y_97sFGoMuk" 
-                        title="Parceria Rocketseat + Vetor256: Aprenda com desconto e acelere sua carreira!" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        referrerpolicy="strict-origin-when-cross-origin" 
-                        allowfullscreen>
-                </iframe>
-            </div>
-            <p class="lead">Confira as vantagens de aprender T.I. com a Vetor256.
-                <img src="src/img/<?php echo $logo_sistema?>" width="20px" alt="Logo Rocketseat">
-                 e a Rocketseat 
-                <img src="src/img/<?php echo $logo_par?>" width="20px" alt="Logo Rocketseat">
+            <p class="lead">Inicie o seu entendimento em programação com a Vetor256. 
+                <img src="src/img/<?php echo $logo_sistema?>" width="20px" alt="Logo">
             </p>
         </div>
     </section>

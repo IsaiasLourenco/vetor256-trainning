@@ -29,9 +29,7 @@
             <img src="src/img/<?php echo $logo_sistema ?>" width="60px" alt="Logo Rocketseat">
         </h1>
             
-        <p class="lead">Aprenda tecnologia com propósito — em parceria com a Rocketseat
-            <img src="src/img/<?php echo $logo_par ?>" width="20px" alt="Logo Rocketseat">
-        </p>
+        <p class="lead">Aprenda tecnologia com propósito</p>
         <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalBoasVindas">Comece agora</a>
     </div>
 </header>

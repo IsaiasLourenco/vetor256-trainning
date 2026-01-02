@@ -48,13 +48,13 @@ $telefone_url = '55' . preg_replace('/[()-]+/', '', $telefone_sistema);
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <p class="text-start">
-                        O <strong>Vetor256 Training</strong> nasceu do desejo de transformar vidas por meio da educação em tecnologia. Criado por <?php echo $dev ?>, o projeto foi impulsionado pela participação na <strong>Rocketseat Influencers Academy</strong>, um programa de aceleração para criadores de conteúdo tech.
+                        O <strong>Vetor256 Training</strong> nasceu do desejo de transformar vidas por meio da educação em tecnologia. Criado por <?php echo $dev ?>, o projeto foi impulsionado pela vontaade de crescer e ensinar.
                     </p>
                     <p class="text-start">
                         Nossa missão é democratizar o acesso ao conhecimento técnico, oferecendo cursos práticos, acessíveis e com propósito. Acreditamos que a tecnologia é uma ferramenta poderosa de inclusão, inovação e evolução pessoal.
                     </p>
                     <p class="text-start">
-                        A parceria com a <strong>Rocketseat</strong> fortalece nossa base educacional e nos conecta a uma comunidade vibrante de desenvolvedores e criadores. Juntos, queremos inspirar a próxima geração de apaixonados por programação, IA, UX e dados.
+                        Vamos tentar fortalecer nossa base educacional e nos conectar a comunidades vibrantes de desenvolvedores e criadores. Juntos, queremos inspirar a próxima geração de apaixonados por programação, IA, UX e dados.
                     </p>
                     <p class="text-start">
                         Este portal é apenas o começo. Em breve, você terá acesso a trilhas completas, certificações, fóruns de discussão e muito mais.
